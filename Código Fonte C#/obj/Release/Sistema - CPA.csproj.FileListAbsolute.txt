@@ -1,0 +1,27 @@
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\Sistema - CPA.exe.config
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\Sistema - CPA.exe
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\Sistema - CPA.pdb
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\aa\Sistema - CPA.resources.dll
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\pt-BR\Sistema - CPA.resources.dll
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\Google.Protobuf.dll
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\itextsharp.dll
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\MySql.Data.dll
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\Renci.SshNet.dll
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\Google.Protobuf.xml
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\itextsharp.xml
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\MySql.Data.xml
+C:\Users\Usuario\source\repos\Sistema - CPA\bin\Release\Renci.SshNet.xml
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema___CPA.Window.resources
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema___CPA.Login.resources
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema___CPA.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema___CPA.Window.aa.resources
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema___CPA.Window.pt-BR.resources
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema - CPA.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema - CPA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\aa\Sistema - CPA.resources.dll
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\pt-BR\Sistema - CPA.resources.dll
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema - CPA.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema - CPA.exe
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema - CPA.pdb
+C:\Users\Usuario\source\repos\Sistema - CPA\obj\Release\Sistema - CPA.csprojAssemblyReference.cache
